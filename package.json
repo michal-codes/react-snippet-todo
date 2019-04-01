@@ -2,7 +2,7 @@
   "name": "002-todo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/michal-codes/react-snippet-todo",
+  "homepage": "https://michal-codes.github.io/react-snippet-todo",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "prop-types": "^15.7.2",
