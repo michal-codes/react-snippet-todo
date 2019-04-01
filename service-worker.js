@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/michal-codes/react-snippet-todo/precache-manifest.02aad0c68cbb9ae0edf85278bb54de93.js"
+  "/react-snippet-todo/precache-manifest.658f249f0415b7c39beb117ed3056d79.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/michal-codes/react-snippet-todo/index.html", {
+workbox.routing.registerNavigationRoute("/react-snippet-todo/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
